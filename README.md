@@ -14,4 +14,4 @@ focused on building reliable, fair, and interpretable AI systems.
 - Interpretable CNN for Cifar-10 Image Classification
 - Differentiated Thyroid Cancer Recurrence
 
-Each project includes a Jupyter notebook and a short description.
+Each project includes a Jupyter notebook , Google Colab  and a short description.
