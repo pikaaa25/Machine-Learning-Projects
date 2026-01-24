@@ -1,4 +1,4 @@
-# Trustworthy Machine Learning Projects
+# Machine Learning Projects
 
 This repository contains a collection of machine learning and deep learning projects
 focused on building reliable, fair, and interpretable AI systems.
